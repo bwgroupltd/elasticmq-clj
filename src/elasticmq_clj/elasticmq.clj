@@ -6,7 +6,7 @@
            [java.nio.file Files Paths LinkOption Path]
            [java.nio.file.attribute FileAttribute]))
 
-(def ^:private download-url "https://s3-eu-west-1.amazonaws.com/softwaremill-public/elasticmq-server-1.3.9.jar")
+(def ^:private download-url "https://s3-eu-west-1.amazonaws.com/softwaremill-public/elasticmq-server-1.6.7.jar")
 
 (def ^:private elasticmq-directory (str (System/getProperty "user.home") File/separator ".clj-elasticmq-local"))
 
