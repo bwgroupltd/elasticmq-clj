@@ -1,4 +1,4 @@
-(defproject audiogum/elasticmq-clj "0.2.0"
+(defproject audiogum/elasticmq-clj "0.2.1-SNAPSHOT"
   :description "elasticmq for clojure"
   :url "https://github.com/bwgroupltd/elasticmq-clj"
   :license {:name "Eclipse Public License"
