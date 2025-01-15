@@ -4,7 +4,8 @@ Embedded sqs for clojure based on elasticmq, just packaged nicely to make it eas
 
 ## Usage
 
-[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.bigsy/elasticmq-clj.svg)](https://clojars.org/org.clojars.bigsy/elasticmq-clj)
+[audiogum/elasticmq-clj "0.2.0"]
+
 ### Development:
 
 ```clojure
