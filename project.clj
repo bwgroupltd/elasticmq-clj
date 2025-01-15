@@ -10,7 +10,7 @@
                  [org.slf4j/slf4j-jdk14 "2.0.16"]
                  [http-kit "2.8.0"]]
 
-  :profiles {:dev {:dependencies [[com.amazonaws/aws-java-sdk-sqs "1.12.780"]
+  :profiles {:dev {:dependencies [[com.amazonaws/aws-java-sdk-sqs "1.12.368"]
                                   [cheshire "5.13.0"]]}}
 
   :release-tasks  [["vcs" "assert-committed"]
